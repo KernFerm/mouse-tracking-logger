@@ -67,9 +67,11 @@ mouse-tracking-logger/
 ├── CODE_OF_CONDUCT.md    # CODE_OF_CONDUCT documentation
 ├── SECURITY.md           # SECURITY documentation
 ├── README.md             # Project documentation
+├── config.bat            # Configuration file to load the settings in a batch file for eaiser
+                            " save config.py when you change your settings , then relaunch. "
 ├── config.py             # Configuration settings
 ├── install.bat           # Batch file to install dependencies
-├── main.bat              # Batch file to run the main script
+├── main.bat              # Batch file to run the main script from in the directory folder
 ├── mouse.py              # Main script to track mouse movements
 └── requirements.txt      # Python dependencies
 ```
