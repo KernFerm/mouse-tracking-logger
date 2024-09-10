@@ -23,16 +23,37 @@ This Python script tracks the position of your mouse and logs the X and Y coordi
   git clone https://github.com/kernferm/mouse-tracking.git
   cd mouse-tracking
   ```
-- Install required dependencies (if any):
 
+## Install Dependencies
+  - You can install the required dependencies using one of the following methods:
+
+- **Option 1: Install using** `pip`
   ```
   pip install pywin32
   ```
+- **Option 2: Install using** `requirements.txt`
+  - If you have the `requirements.txt` file, you can install all dependencies at once:
+  ```
+  pip install -r requirements.txt
+  ```
+- **Option 3: Install using** `install.bat`
+  - You can also use the `install.bat` file (if provided) to install the dependencies. Simply run the batch file:
+  ```
+  install.bat
+  ```
 
-3. Run the script:
+### Run the Script
 
+You can run the script using one of the following methods:
+
+- **Option 1:** Run using Python directly
   ```
   python mouse.py
+  ```
+- **Option 2: Run using the** `main.bat` file
+  - If you prefer, you can run the script by executing the `main.bat` file:
+  ```
+  main.bat
   ```
 
 ## ⚙️ Configuration
