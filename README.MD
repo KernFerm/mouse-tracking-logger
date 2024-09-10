@@ -63,6 +63,8 @@ mouse-tracking-logger/
 │
 ├── banner/               # Directory for any banner or image files
 ├── .gitignore            # Files and directories to ignore in Git
+├── CODE_OF_CONDUCT.md    # CODE_OF_CONDUCT documentation
+├── SECURITY.md           # SECURITY documentation
 ├── README.md             # Project documentation
 ├── config.py             # Configuration settings
 ├── install.bat           # Batch file to install dependencies
