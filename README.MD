@@ -1,3 +1,9 @@
+<h1 align="center">
+  <img src="https://github.com/KernFerm/mouse-tracker-logger/blob/main/banner/Mouse_Tracking_Logger.png" alt="Mouse Tracking Logger" />
+</h1>
+
+
+
 # 🖱️ Mouse Tracking Logger
 
 This Python script tracks the position of your mouse and logs the X and Y coordinates to a file. It's useful for proving legitimate mouse activity during gameplay or other tasks. The script is configurable, allowing you to adjust how frequently the mouse position is logged and how often the data is written to a file.
