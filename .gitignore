@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Configuration files
+config.py
+
+# Log files
+*.log
+*.txt
+
+# Ignore virtual environments if using one
+venv/
+env/
+.venv/
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore Python environment
+.Python
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore pip dependency management file
+pip-log.txt
+
+# Ignore Mac system files
+*.DS_Store
+
+# Ignore logs and databases
+*.sqlite3
+
+# Ignore pytest cache
+.pytest_cache/
+
+# Ignore testing output
+*.coverage
+.coverage.*
+
+# Ignore VS Code workspace settings
+.vscode/
