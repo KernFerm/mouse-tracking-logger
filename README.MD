@@ -52,7 +52,7 @@ You can configure the behavior of the script using the `config.py` file. Here's 
 ## 📂 File Structure
 
 ```
-mouse-tracking-logger/
+mouse-tracking/
 │
 ├── mouse.py   # Main script to track mouse movements
 ├── config.py          # Configuration settings
