@@ -52,11 +52,17 @@ You can configure the behavior of the script using the `config.py` file. Here's 
 ## 📂 File Structure
 
 ```
-mouse-tracking/
+📂 File Structure
+mouse-tracking-logger/
 │
-├── mouse.py   # Main script to track mouse movements
-├── config.py          # Configuration settings
-└── mouse_tracking_log.txt  # Log file (generated automatically)
+├── banner/               # Directory for any banner or image files
+├── .gitignore            # Files and directories to ignore in Git
+├── README.md             # Project documentation
+├── config.py             # Configuration settings
+├── install.bat           # Batch file to install dependencies
+├── main.bat              # Batch file to run the main script
+├── mouse.py              # Main script to track mouse movements
+└── requirements.txt      # Python dependencies
 ```
 
 ## 🖥️ Usage
