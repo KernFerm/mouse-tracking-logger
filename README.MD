@@ -18,7 +18,7 @@ This Python script tracks the position of your mouse and logs the X and Y coordi
 ## 🛠️ Installation
 
 1. Clone the repository:
-
+  - make sure to make a folder on `Desktop` then `CD` it in `CMD.exe` then do the `Git Clone`.
   ```
   git clone https://github.com/kernferm/mouse-tracking-logger.git
   cd mouse-tracking-logger
