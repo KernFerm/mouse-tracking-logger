@@ -104,10 +104,4 @@ mouse-tracking-logger/
 
 Feel free to submit issues, feature requests, or pull requests! Contributions are welcome.
 
-Thank you for using Mouse Tracking Logger! If you have any questions or feedback, feel free to reach out.
-
-
-
-
-
-
+### Thank you for using Mouse Tracking Logger! If you have any questions or feedback, feel free to reach out.
