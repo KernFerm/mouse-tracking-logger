@@ -44,3 +44,9 @@ pip-log.txt
 
 # Ignore VS Code workspace settings
 .vscode/
+
+# Ignore Dependabot configuration
+dependabot.yml
+
+# Ignore batch files (optional, if you want them excluded)
+*.bat
