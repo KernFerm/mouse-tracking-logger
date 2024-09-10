@@ -61,6 +61,7 @@ You can configure the behavior of the script using the `config.py` file. Here's 
 📂 File Structure
 mouse-tracking-logger/
 │
+├── .github               # dependabot.yml 
 ├── banner/               # Directory for any banner or image files
 ├── .gitignore            # Files and directories to ignore in Git
 ├── CODE_OF_CONDUCT.md    # CODE_OF_CONDUCT documentation
