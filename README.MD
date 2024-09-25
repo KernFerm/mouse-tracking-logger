@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/KernFerm/mouse-tracker-logger/blob/main/banner/Mouse_Tracking_Logger.png" alt="Mouse Tracking Logger" width="300" />
+  <img src="https://github.com/KernFerm/mouse-tracker-logger/blob/main/banner/Mouse_Tracking_Logger.png" alt="Mouse Tracking Logger" width="500" />
 </h1>
 
 
