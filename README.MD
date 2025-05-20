@@ -3,7 +3,7 @@
 </h1>
 
 
-
+- [https://discord.gg/FxJd3PxXbc](https://discord.gg/FxJd3PxXbc)
 
 # 🖱️ Mouse Tracking Logger
 
